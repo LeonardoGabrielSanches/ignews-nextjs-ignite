@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import { SubscribeButton } from '../components/SubscribeButton'
 
-import styles from '../styles/home.module.scss'
+import styles from './home.module.scss'
 
 export default function Home() {
   return (
